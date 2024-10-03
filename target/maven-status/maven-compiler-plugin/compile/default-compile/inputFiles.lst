@@ -1,0 +1,13 @@
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\config\SwaggerConfig.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\controller\WishlistController.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\dto\WishlistRequestDTO.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\exception\CustomExceptions.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\exception\DuplicateProductException.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\exception\GlobalExceptionHandler.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\exception\ProductNotFoundException.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\exception\WishlistNotFoundException.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\model\Product.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\model\Wishlist.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\repository\WishlistRepository.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\service\WishlistService.java
+C:\Users\charl\Desktop\Wishlist\src\main\java\com\luizalabs\wishlist\WishlistApplication.java

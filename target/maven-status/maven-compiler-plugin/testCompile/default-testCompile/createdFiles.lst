@@ -1,0 +1,6 @@
+com\luizalabs\wishlist\exception\DuplicateProductExceptionTest.class
+com\luizalabs\wishlist\exception\ProductNotFoundExceptionTest.class
+com\luizalabs\wishlist\exception\CustomExceptionsTest.class
+com\luizalabs\wishlist\controller\WishlistControllerTest.class
+com\luizalabs\wishlist\service\WishlistServiceTest.class
+com\luizalabs\wishlist\exception\WishlistNotFoundExceptionTest.class

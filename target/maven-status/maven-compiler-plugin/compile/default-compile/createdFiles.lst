@@ -1,0 +1,14 @@
+com\luizalabs\wishlist\config\SwaggerConfig.class
+com\luizalabs\wishlist\WishlistApplication.class
+com\luizalabs\wishlist\exception\CustomExceptions.class
+com\luizalabs\wishlist\service\WishlistService.class
+com\luizalabs\wishlist\controller\WishlistController.class
+com\luizalabs\wishlist\repository\WishlistRepository.class
+com\luizalabs\wishlist\model\Product.class
+com\luizalabs\wishlist\exception\CustomExceptions$WishlistLimitExceededException.class
+com\luizalabs\wishlist\exception\GlobalExceptionHandler.class
+com\luizalabs\wishlist\model\Wishlist.class
+com\luizalabs\wishlist\dto\WishlistRequestDTO.class
+com\luizalabs\wishlist\exception\DuplicateProductException.class
+com\luizalabs\wishlist\exception\WishlistNotFoundException.class
+com\luizalabs\wishlist\exception\ProductNotFoundException.class
