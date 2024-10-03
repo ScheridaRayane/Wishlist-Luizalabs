@@ -25,6 +25,7 @@ Before you begin, ensure you have the following installed:
 1. Set the VM option:
    ```bash
    -Dspring.profiles.active=dev
-2. The application runs on port 8080.
-3. Access the API documentation through Swagger UI at: http://localhost:8080/swagger-ui/index.html#
+2. Create the database on MongoDB with the name "**luizalabs**" and collection "**wishlists**". So, proceed with the execution.
+3. The application runs on port 8080.
+4. Access the API documentation through Swagger UI at: http://localhost:8080/swagger-ui/index.html#
 
